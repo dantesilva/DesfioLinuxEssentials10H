@@ -8,6 +8,8 @@ Link do Trello para acompanhar a programação das aulas: https://trello.com/inv
 
 https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/ETDBSNYb-XxFhEHocz-bdZ8B5HjvQKsjanLimyYkuBF_OQ?e=WLbAiI
 
+Material em pdf da pré aula: https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/ETkcQ9GYqhdMvMsB2BTsLykBKvA--QaO8joZxkeYGApvVA?e=tguwbg
+
 Links para Download das distribuições Linux usadas nesse curso:
 
 Debian 10.06: https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-10.6.0-amd64-DVD-1.iso
