@@ -4,6 +4,10 @@
 
 Link do Trello para acompanhar a programação das aulas: https://trello.com/invite/b/a4MGlWtf/ea51ae8bc8545ca07b20decd803b5ff8/desafio-linux-essentials-10-horas
 
+#### Pré aula com requisitos básicos: 
+
+https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/ETDBSNYb-XxFhEHocz-bdZ8B5HjvQKsjanLimyYkuBF_OQ?e=WLbAiI
+
 Links para Download das distribuições Linux usadas nesse curso:
 
 Debian 10.06: https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-10.6.0-amd64-DVD-1.iso
