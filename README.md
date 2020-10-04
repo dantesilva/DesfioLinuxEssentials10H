@@ -2,6 +2,8 @@
 
 ### Esse repositório tem por objetivo desponibilizar arquivos importantes para o curso Desafio Linux Essentials em 10 Horas, promovido por mim em parceria com a Womcy.
 
+#### Programação dia a dia do curso
+
 Link do Trello para acompanhar a programação das aulas: https://trello.com/invite/b/a4MGlWtf/ea51ae8bc8545ca07b20decd803b5ff8/desafio-linux-essentials-10-horas
 
 #### Pré aula com requisitos básicos: 
