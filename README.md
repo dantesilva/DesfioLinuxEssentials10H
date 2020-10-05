@@ -2,6 +2,8 @@
 
 ### Seja bem vindo ao Curso Linux Essentials em 10 horas! Esse repositório tem por objetivo desponibilizar arquivos e dar dicas importantes para melhor aproveitamento do que será abordado.
 
+### Importante!! - Recomendo que assistam a video aula de pré requisitos. Veja o ponto 2
+
 #### 1 - Programação dia a dia do curso
 
 Link do Trello para acompanhar a programação das aulas: https://trello.com/invite/b/a4MGlWtf/ea51ae8bc8545ca07b20decd803b5ff8/desafio-linux-essentials-10-horas
