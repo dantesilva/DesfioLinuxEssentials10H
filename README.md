@@ -15,7 +15,9 @@ Material em pdf da pré aula: https://dantesilva-my.sharepoint.com/:b:/g/persona
 #### 3 - Links das máquinas virtuais para laboratório
 
 Ubuntu 20.04 LTS:  https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EXmTpe8XCB5AubnbXLa-1TgBZXVSWJwyeceiYNglevFH2A?e=eXGm4e
+
 Debian 10.06: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EVHE_BnapuVFkG-yvJe9EDcB360sjPi77QMfVGE_HvAz8A?e=8A0ZKI
+
 CentOS 8.02: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EWPg1gKeaylIheP4FonVGA8BbCLkzZv_AoXYeZz5nmaObw?e=tmrPT8
 
 #### 3 - Links para Download das distribuições Linux usadas nesse curso:
