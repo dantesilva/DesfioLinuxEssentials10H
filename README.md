@@ -29,10 +29,10 @@ md5sum CentOS ova: e70991b9d4f1672657bcb6bfe38bc772
    Usurio de todas os virtuais:
     
     usuario: usuario
-    senha:usuario123
+    senha: usuario123
 
     usuario: root
-    senha:usuario 123
+    senha: usuario123
 
 #### 3 - Links para Download das distribuições Linux usadas nesse curso:
  
