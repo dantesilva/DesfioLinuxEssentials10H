@@ -26,7 +26,7 @@ CentOS 8.02: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilv
 
 md5sum CentOS ova: e70991b9d4f1672657bcb6bfe38bc772
 
-   Usurio de todas os virtuais:
+   Usurio de todos os virtuais:
     
     usuario: usuario
     senha: usuario123
