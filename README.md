@@ -2,7 +2,7 @@
 
 ### Seja bem vindo ao Curso Linux Essentials em 10 horas! Esse repositório tem por objetivo desponibilizar arquivos e dar dicas importantes para melhor aproveitamento do que será abordado.
 
-### Importante!! - Recomendo que assistam a video aula de pré requisitos. Veja o ponto 2
+### Importante -  Recomendo que assistam a video aula de pré requisitos. Veja o ponto 2
 
 #### 1 - Programação dia a dia do curso
 
