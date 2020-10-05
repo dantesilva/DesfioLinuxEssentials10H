@@ -12,8 +12,14 @@ https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft
 
 Material em pdf da pré aula: https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/ETkcQ9GYqhdMvMsB2BTsLykBKvA--QaO8joZxkeYGApvVA?e=tguwbg
 
-#### 3 - Links para Download das distribuições Linux usadas nesse curso:
+#### 3 - Links das máquinas virtuais para laboratório
 
+Ubuntu 20.04 LTS:  https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EXmTpe8XCB5AubnbXLa-1TgBZXVSWJwyeceiYNglevFH2A?e=eXGm4e
+Debian 10.06: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EVHE_BnapuVFkG-yvJe9EDcB360sjPi77QMfVGE_HvAz8A?e=8A0ZKI
+CentOS 8.02: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EWPg1gKeaylIheP4FonVGA8BbCLkzZv_AoXYeZz5nmaObw?e=tmrPT8
+
+#### 3 - Links para Download das distribuições Linux usadas nesse curso:
+ 
 Debian 10.06: https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-10.6.0-amd64-DVD-1.iso
 
 Ubuntu 20.04 LTS: https://ubuntu.com/download/desktop/thank-you?version=20.04.1&architecture=amd64
