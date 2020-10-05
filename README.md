@@ -60,10 +60,10 @@ Usaremos para fazer os laboratórios nas máquinas virtuais o Virtualbox. Veja p
 
 #### 8.1 Aula de pré requisitos
 
-     Video: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/ETDBSNYb-XxFhEHocz-bdZ8B5HjvQKsjanLimyYkuBF_OQ?e=WLbAiI
+   Video: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/ETDBSNYb-XxFhEHocz-bdZ8B5HjvQKsjanLimyYkuBF_OQ?e=WLbAiI
 
-    Material pdf: https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/ETkcQ9GYqhdMvMsB2BTsLykBKvA--QaO8joZxkeYGApvVA?e=tguwbg
+   Material pdf: https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/ETkcQ9GYqhdMvMsB2BTsLykBKvA--QaO8joZxkeYGApvVA?e=tguwbg
 
 #### 8.2 Aula 1 - 05/09/2020
 
-    Material pdf: 
+   Material pdf: 
