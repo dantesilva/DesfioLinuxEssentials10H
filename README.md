@@ -54,4 +54,12 @@ Recomendo que você faça Download das maquinas virtuais para podermos realizar 
 
 Usaremos para fazer os laboratórios nas máquinas virtuais o Virtualbox. Veja ponto 4
 
+#### ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### MATERIAL DAS AULAS:
+
+#### Aula de pré requisitos
+
+Video: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/ETDBSNYb-XxFhEHocz-bdZ8B5HjvQKsjanLimyYkuBF_OQ?e=WLbAiI
+
+Material pdf: https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/ETkcQ9GYqhdMvMsB2BTsLykBKvA--QaO8joZxkeYGApvVA?e=tguwbg
