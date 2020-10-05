@@ -16,9 +16,15 @@ Material em pdf da pré aula: https://dantesilva-my.sharepoint.com/:b:/g/persona
 
 Ubuntu 20.04 LTS:  https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EXmTpe8XCB5AubnbXLa-1TgBZXVSWJwyeceiYNglevFH2A?e=eXGm4e
 
+md5sum Ubuntu ova: 83fb4cc65e4380056ae2d63296101f89 
+
 Debian 10.06: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EVHE_BnapuVFkG-yvJe9EDcB360sjPi77QMfVGE_HvAz8A?e=8A0ZKI
 
+md5sum Debian ova : fa71c53d330f6cea3374367b3c28c193
+
 CentOS 8.02: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EWPg1gKeaylIheP4FonVGA8BbCLkzZv_AoXYeZz5nmaObw?e=tmrPT8
+
+md5sum CentOS ova: e70991b9d4f1672657bcb6bfe38bc772
 
 #### 3 - Links para Download das distribuições Linux usadas nesse curso:
  
