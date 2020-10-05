@@ -1,8 +1,7 @@
 # DesfioLinuxEssentials10H
 
 
-### Seja bem vindo ao Curso Linux Essentials em 10 horas! Esse repositório tem por objetivo desponibilizar arquivos e dar dicas importantes para melhor aproveitamento do que será abordado. Se houverem duvidas poderão ingressar no grupo de Telegram para tirar as duvidas e compartilhar o que aprendeu. 
-
+### Seja bem vindo ao Curso Linux Essentials em 10 horas! Esse repositório tem por objetivo desponibilizar arquivos e dar dicas importantes para melhor aproveitamento do que será abordado. Se houverem dúvidas poderão ingressar no grupo de Telegram para tira-las.
 Link do grupo: https://t.me/joinchat/ODdp7hn2V92wi-oyOgbqzQ
 
 ### Importante -  Recomendo que assistam a video-aula de pré requisitos. Veja o ponto 2
