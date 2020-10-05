@@ -26,12 +26,12 @@ CentOS 8.02: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilv
 
 md5sum CentOS ova: e70991b9d4f1672657bcb6bfe38bc772
 
-    Usurio de todas as maquinas:
+   Usurio de todas as maquinas:
     usuario: usuario
     senha:usuario123
 
-usuario: root
-senha:usuario 123
+    usuario: root
+    senha:usuario 123
 
 #### 3 - Links para Download das distribuições Linux usadas nesse curso:
  
