@@ -48,10 +48,10 @@ A cada dia será disponibilizado pdf do que será considerado na aula daquele di
 
 ### 6 - Laboratórios
 
-Recomendo que você faça Download das maquinas virtuais para podermos realizar o laboratório caso enfrente problemas para instalar o Linux no Hypervisor
+Recomendo que você faça Download das maquinas virtuais para podermos realizar o laboratório caso enfrente problemas para instalar o Linux no Hypervisor. Veja ponto 3
 
 ### 7 - Hypervisor
 
-Usaremos para fazer os laboratórios nas máquinas virtuais o Virtualbox.
+Usaremos para fazer os laboratórios nas máquinas virtuais o Virtualbox. Veja ponto 4
 
 
