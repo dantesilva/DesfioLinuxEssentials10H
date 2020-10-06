@@ -18,7 +18,7 @@ Material em pdf da pré aula: https://dantesilva-my.sharepoint.com/:b:/g/persona
 
 #### 3 - Links das máquinas virtuais para laboratório
 
-Ubuntu 20.04 LTS:  https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EXmTpe8XCB5AubnbXLa-1TgBZXVSWJwyeceiYNglevFH2A?e=eXGm4e
+Ubuntu 20.04 LTS:  https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EdChAMxgxYVFud6q6j_9pOMBqrvG1iV9Zv_Ci8fOqrc-ug?e=XquOwB
 
 md5sum Ubuntu ova: 83fb4cc65e4380056ae2d63296101f89 
 
