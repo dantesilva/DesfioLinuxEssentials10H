@@ -32,6 +32,8 @@ md5sum CentOS ova: e70991b9d4f1672657bcb6bfe38bc772
 
 CentOS 7: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EWPg1gKeaylIheP4FonVGA8BbCLkzZv_AoXYeZz5nmaObw?e=5EOeMU
 
+md5sum CentOs7: 2c5c42408ef15fe4daa5657654338867
+
 Linux Mint: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EfylIQJQl5JHhVjKW-hJ-KsBBrDdB9kaZ5DmIsQIpAt86g?e=6GC3hU
 
 md5sum Linux Mint: 8a254d1fbc5661fff5356fe11f21af59 
