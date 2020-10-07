@@ -30,6 +30,11 @@ CentOS 8.02: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilv
 
 md5sum CentOS ova: e70991b9d4f1672657bcb6bfe38bc772
 
+CentOS 7: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EWPg1gKeaylIheP4FonVGA8BbCLkzZv_AoXYeZz5nmaObw?e=5EOeMU
+
+Linux Mint: https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EfylIQJQl5JHhVjKW-hJ-KsBBrDdB9kaZ5DmIsQIpAt86g?e=6GC3hU
+md5sum Linux Mint: 8a254d1fbc5661fff5356fe11f21af59 
+
    #### Usurio de todos os virtuais:
     
     usuario: usuario
