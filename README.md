@@ -93,3 +93,10 @@ Usaremos para fazer os laboratórios nas máquinas virtuais o Virtualbox. Veja p
    Material pdf:https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/EUcf7QOFt3xAhTjGPwobElEBVfNJKH3AW_rot1c5GTwh7w?e=4juxMh
    
    Video aula gravada: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/EXP0rmH6sJhOoGb19cE2oPYBpsutyPYCcoBj_5AHGVb6hg?e=YwEMDU
+  
+#### 8.3 Aula 3 -
+
+#### 8.3 Aula 4 - 14/10/2020
+
+Video aula gravada: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/EcM5Canoi1tApnvMt6pXlbwB6Nep-MWaEdc_pTkOiKqvIA?e=rdJGGx
+
