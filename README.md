@@ -100,5 +100,5 @@ Usaremos para fazer os laboratórios nas máquinas virtuais o Virtualbox. Veja p
 
 Video aula gravada: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/EcM5Canoi1tApnvMt6pXlbwBoxXAw8pfgL7hAH2tP-NBGA?e=aJy07P
 
-Máquina Virtual da aula 4: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/EcM5Canoi1tApnvMt6pXlbwB6Nep-MWaEdc_pTkOiKqvIA?e=pU1WVL
+Máquina Virtual da aula 4:https://dantesilva-my.sharepoint.com/:u:/g/personal/dante_dantesilva_onmicrosoft_com/EV1MuegOjipOocVUMnctQ6IBgfoy-TQiEVOu8Wv8pxFWhQ?e=sscpNV
 
