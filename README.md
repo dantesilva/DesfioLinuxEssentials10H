@@ -104,7 +104,7 @@ Máquina Virtual da aula 4:https://dantesilva-my.sharepoint.com/:u:/g/personal/d
 
 #### 8.6 Aula 5 19/20/2020
 
-Video aula Gravada: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/EUInCDme-K1PkWNSy4-fgEoB9vsiMIdmz9mp41tAMH2cYg?e=yd9kay
+Video aula Gravada: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/EUInCDme-K1PkWNSy4-fgEoB9vsiMIdmz9mp41tAMH2cYg
 
 Material da aula: https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/ERrQB3QamcVDo5g7NgSFa54B5KBMsMdFIIlS1pG5qPD9Dg?e=vToicB
 
