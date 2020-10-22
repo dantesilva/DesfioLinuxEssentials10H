@@ -108,3 +108,7 @@ Video aula Gravada: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_da
 
 Material da aula: https://dantesilva-my.sharepoint.com/:b:/g/personal/dante_dantesilva_onmicrosoft_com/ERrQB3QamcVDo5g7NgSFa54B5KBMsMdFIIlS1pG5qPD9Dg?e=vToicB
 
+#### 8.7 Aula Extra
+
+Video aula gravada: https://dantesilva-my.sharepoint.com/:v:/g/personal/dante_dantesilva_onmicrosoft_com/ETbISrmU49ZHtaJcmwnX6GAB9diV_rzF8D1xZmViUnG8uA?e=otpiyT
+
